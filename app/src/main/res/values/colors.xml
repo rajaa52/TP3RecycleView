@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vert">#B2E07E</color>
+    <color name="vertLight">#B2E07E</color>
+
+    <color name="my_light_primary">#6200EE</color> <!-- Exemple de couleur -->
+    <color name="my_dark_primary">#3700B3</color> <!-- Exemple de couleur -->
+    <color name="my_accent_color">#03DAC5</color> <!-- Exemple de couleur -->
+</resources>
